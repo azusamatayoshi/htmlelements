@@ -5,6 +5,9 @@ body {
   font-family: sans-serif;
 }
 
+.container {
+  background-color: #c2c2d6;
+}
 
 .col a {
   display: block;
