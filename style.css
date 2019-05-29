@@ -51,27 +51,27 @@ header {
 }
 
 .pinkD {
-background: radial-gradient(#fff,#ff66ff);
+background: #ff66ff;
 }
 
 .pinkL {
-  background: radial-gradient(#fff,#ffccff);
+  background: #ffccff;
 }
   
 .greenD {
-  background: radial-gradient(#fff,#85e085);
+  background: #85e085;
 }
 
 .greenL {
-  background: radial-gradient(#fff,#d6f5d6);
+  background: #d6f5d6;
 }
 
 .blueD {
-  background: radial-gradient(#fff,#6666ff);
+  background: #6666ff;
 }
 
 .blueL {
-  background: radial-gradient(#fff,#ccccff);
+  background: #ccccff;
 }
 
 .orange {
