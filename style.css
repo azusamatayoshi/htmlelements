@@ -7,7 +7,6 @@ body {
 
 .row {
   background-color: #c2c2d6;
-  margin: 0 auto;
   border-radius: 10px;
 }
 
@@ -38,8 +37,7 @@ header {
   line-height: 60px;
   border: 1px solid #999;
   border-radius: 10px;
-  margin-right: 7px;
-  margin-bottom: 7px;
+  margin: 7px;
  /*box-shadow: 3px 3px 3px #ccc;*/
 }
 
