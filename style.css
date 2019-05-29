@@ -50,28 +50,28 @@ header {
  /* box-shadow: 3px 3px 3px #ccc;*/
 }
 
-.turquoise {
-background: radial-gradient(#fff,#40E0D0);
+.pinkD {
+background: radial-gradient(#fff,#ff66ff);
 }
 
-.pink {
-  background: radial-gradient(#fff,#FF00FF);
+.pinkL {
+  background: radial-gradient(#fff,#ffe6ff);
 }
   
-.green {
-  background: radial-gradient(#fff,#008000);
+.greenD {
+  background: radial-gradient(#fff,#85e085);
 }
 
-.lightgreen {
-  background: radial-gradient(#fff,#00FF00);
+.greenL {
+  background: radial-gradient(#fff,#ebfaeb);
 }
 
-.dodgerblue {
-  background: radial-gradient(#fff,#1E90FF);
+.blueD {
+  background: radial-gradient(#fff,#6666ff);
 }
 
-.blueviolet {
-  background: radial-gradient(#fff,#8A2BE2);
+.blueL {
+  background: radial-gradient(#fff,#e6e6ff);
 }
 
 .orange {
