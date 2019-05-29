@@ -41,29 +41,29 @@ header {
  /*box-shadow: 3px 3px 3px #ccc;*/
 }
 
-/*
+
 .pinkD {
 background: #ff66ff;
 }
 
 .pinkL {
-  background: #ffccff;
+  background: #fff; /*#ffccff;*/
 }
   
 .greenD {
-  background: #85e085;
+  background: #fff; /*#85e085;*/
 }
 
 .greenL {
-  background: #d6f5d6;
+  background: #fff; /*#d6f5d6;*/
 }
 
 .blueD {
-  background: #6666ff;
+  background: #fff; /*#6666ff;*/
 }
 
 .blueL {
-  background: #ccccff;
+  background: #fff; /*#ccccff;*/
 }
 
 .orange {
