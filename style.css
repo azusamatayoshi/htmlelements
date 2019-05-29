@@ -75,15 +75,15 @@ background: #ff66ff;
 }
 
 .orange {
-background: radial-gradient(#fff,#FF8C00);
+background: #FF8C00;
 }
 
 .aqua {
-  background: radial-gradient(#fff,#00FFFF);
+  background: #00FFFF;
 }
 
 .orangered {
-  background: radial-gradient(#fff,#FF4500);
+  background: #FF4500;
 }
 
 .palepink {
@@ -91,11 +91,11 @@ background: radial-gradient(#fff,#FF8C00);
 }
 
 .brown {
-  background: radial-gradient(#fff,#8B4513);
+  background: #8B4513;
 }
 
 .blue {
-  background: radial-gradient(#fff,#0000FF);
+  background: #0000FF;
 }
 
 
