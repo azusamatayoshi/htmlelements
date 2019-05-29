@@ -167,6 +167,10 @@ summary {
   padding-top: 5px;
 }
 
+.table {
+  width: 80%;
+  margin: 20px auto 0;
+}
 
 @media screen and (max-width:768px) {
   .col {
@@ -175,7 +179,7 @@ summary {
     margin-right: 0;
     margin-bottom: 3px;
   }
-  .second, .text, .list { 
+ .table, .second, .text, .list { 
     width: 100%;
     display: block;
   }
