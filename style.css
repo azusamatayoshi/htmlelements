@@ -43,7 +43,7 @@ header {
 
 
 .pinkD {
-background: #ff66ff;
+background: #fff; /*#ff66ff;*/
 }
 
 .pinkL {
@@ -67,27 +67,27 @@ background: #ff66ff;
 }
 
 .orange {
-background: #FF8C00;
+background: #fff; /* #FF8C00;*/
 }
 
 .aqua {
-  background: #00FFFF;
+  background: #fff; /*#00FFFF;*/
 }
 
 .orangered {
-  background: #FF4500;
+  background: #fff; /*#FF4500;*/
 }
 
 .palepink {
-  background: #FFC0CB;
+  background: #fff; /*#FFC0CB;*/
 }
 
 .brown {
-  background: #8B4513;
+  background: #fff; /*#8B4513;*/
 }
 
 .blue {
-  background: #0000FF;
+  background: #fff; /*#0000FF;*/
 }*/
 
 
